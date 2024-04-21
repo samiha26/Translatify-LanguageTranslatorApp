@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="black_shade_1">#292D36</color>
+    <color name="yellow">#F9F07A</color>
+    <color name="purple_200">#FB88B4</color>
+    <color name="purple_500">#9195F6</color>
+    <color name="light_blue">#B7C9F2</color>
+    <color name="glassy_button_color">#66FFFFFF</color>
+
+</resources>
